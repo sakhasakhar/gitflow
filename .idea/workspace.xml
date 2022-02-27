@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61bd170c-dc6f-4af2-b6cd-4396697a71a9" name="Changes" comment="list.txt" />
+    <list default="true" id="61bd170c-dc6f-4af2-b6cd-4396697a71a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="listSasha" />
+        <entry key="$PROJECT_DIR$" value="userSasha" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,28 +37,6 @@
       <option name="presentableId" value="Default" />
       <updated>1639680654933</updated>
     </task>
-    <task id="LOCAL-00001" summary="list.txt">
-      <created>1639682307366</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1639682307366</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Sasha.txt">
-      <created>1639682480547</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1639682480547</updated>
-    </task>
-    <task id="LOCAL-00003" summary="list.txt">
-      <created>1639682590294</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1639682590294</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,16 +44,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="featue" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sasha.txt" />
-    <MESSAGE value="list.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="list.txt" />
   </component>
 </project>
